@@ -1,0 +1,2 @@
+# starchina
+Redstar china
