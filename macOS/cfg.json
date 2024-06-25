@@ -1,0 +1,46 @@
+{
+    "result": 1,
+    "errMsg": "OK",
+    "configs": [
+        {
+            "name": "srvlastVer",
+            "value": "8"
+        },
+		{
+            "name": "localPort",
+            "value": "1088"
+        },
+		{
+            "name": "lastVersion",
+            "value": "1.5.6"
+        },
+        {
+            "name": "showSettings",
+            "value": "1"
+        },
+		{
+            "name": "lastAlert",
+            "value": ""
+        },
+        {
+            "name": "alertID",
+            "value": "9"
+        },
+        {
+            "name": "noticeID",
+            "value": "6"
+        },
+        {
+            "name": "lastNotice",
+            "value": "红星加速器iOS客户端已发布，点击左上角图标下载。"
+        },
+        {
+            "name": "srvlistVer",
+            "value": "8"
+        },
+		{
+            "name": "srvdomains",
+            "value": "greatchinese.cc;greatchinese.cc"
+        }
+    ]
+}
