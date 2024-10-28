@@ -4,7 +4,7 @@
     "configs": [
         {
             "name": "srvlastVer",
-            "value": "8"
+            "value": "9"
         },
 		{
             "name": "localPort",
@@ -36,11 +36,15 @@
         },
         {
             "name": "srvlistVer",
-            "value": "8"
+            "value": "9"
         },
-		{
+	{
             "name": "srvdomains",
             "value": "greatchinese.cc;greatchinese.cc"
+        },
+	{
+            "name": "redsrvlists",
+            "value": "16,tw01,2,Taiwan of China 01 Back,中国台湾(超速协议01),0,1,1,2,0,0,8888;24,tw02,1,Taiwan of China 02 Back,中国台湾(超速协议02),1,1,1,2,0,0,8888;1,tw01,2,Taiwan of China 01,中国台湾 01,0,1,1,4,0,0,443;2,us01,1,USA 01,米国 01,0,1,2,4,0,0,443;3,de01,1,Germany,德国,0,1,11,4,0,0,443;4,nl01,1,Netherlands,荷兰,0,1,12,4,0,0,443;5,ca01,1,Canada,加拿大,0,1,18,4,0,0,443;6,sg01,2,Singapore,新加坡,0,1,10,4,0,0,443;7,tw02,1,Taiwan of China 02,中国台湾 02,1,1,1,4,0,0,1443;8,us02,1,USA 02,米国 02,1,1,2,4,0,0,1443;9,hk01,1,Hong Kong Of China 01,中国香港 01,1,1,1,4,0,0,1443;10,uk01,1,United Kingdom 01,英国 01,1,1,3,4,0,0,1443;11,au01,1,Australia,澳大利亚,1,1,20,4,0,0,1443;12,tw03,1,Taiwan of China 03,中国台湾 03,2,1,1,4,0,0,443;13,us03,1,USA 03,米国 03,2,1,2,4,0,0,443;14,jp01,2,Japan 01,日本 01,2,1,4,4,0,0,443;15,hk03,3,Hong Kong Of China 03,中国香港 03,2,1,5,4,0,0,443;17,uk03,1,United Kingdom 03,英国 03,2,1,3,4,0,0,443;18,hk02,2,Hong Kong Of China 02,中国香港 02,0,1,5,4,0,0,443;19,jp02,1,Japan 02,日本 02,0,1,4,4,0,0,443;20,my03,1,Malaysia,马来西亚,2,1,23,4,0,0,443;21,in03,1,India,印度,2,1,22,4,0,0,443;22,tw04,1,Taiwan of China,中国台湾,2,1,1,4,0,0,443;23,br01,1,Brazil,巴西,1,1,24,4,0,0,443;24,fr01,1,France,法国,1,1,9,4,0,0,443"
         }
     ]
 }
