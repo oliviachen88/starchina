@@ -4,7 +4,7 @@
     "configs": [
         {
             "name": "srvlastVer",
-            "value": "10"
+            "value": "11"
         },
 		{
             "name": "localPort",
@@ -36,7 +36,7 @@
         },
         {
             "name": "srvlistVer",
-            "value": "10"
+            "value": "11"
         },
 	{
             "name": "srvdomains",
